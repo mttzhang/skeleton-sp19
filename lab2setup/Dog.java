@@ -1,6 +1,8 @@
 public class Dog {
     private int size;
 
+    int age;
+
     public Dog(int s) {
         size = s;
     }
